@@ -1,7 +1,7 @@
 # Twitter-Sentiment
 
 ## Setup
-To view the analysis and the project, click [here](https://johann017.github.io/Twitter-Sentiment/).
+No additional setup is needed to view this project. To view the analysis and the project, click [here](https://johann017.github.io/Twitter-Sentiment/).
 
 ## Description
 This project is a basic use case of Natural Language Processing. The objective of this project is to see how the President of the United States of America addresses the nation through the use of Twitter. There will be a use of machine learning models towards the end of this project to help determine which one best models the Presidents tweets based on sentiment. This project can be viewed using this [link](https://johann017.github.io/Twitter-Sentiment/). 
